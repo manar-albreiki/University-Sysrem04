@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3425269-95A9-4ACC-AB4F-7887FCDC3C76}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system\\university system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3425269-95A9-4ACC-AB4F-7887FCDC3C76}|University System\\University System.csproj|solutionrelative:university system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System\\University System\\Program.cs",
+              "RelativeDocumentMoniker": "University System\\Program.cs",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System\\University System\\Program.cs",
+              "RelativeToolTip": "University System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T08:12:48.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
