@@ -1,0 +1,5 @@
+C:\Users\maaa7\OneDrive\Documents\Solution\University System04\University System\obj\Debug\net8.0\University System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maaa7\OneDrive\Documents\Solution\University System04\University System\obj\Debug\net8.0\University System.AssemblyInfoInputs.cache
+C:\Users\maaa7\OneDrive\Documents\Solution\University System04\University System\obj\Debug\net8.0\University System.AssemblyInfo.cs
+C:\Users\maaa7\OneDrive\Documents\Solution\University System04\University System\obj\Debug\net8.0\University System.csproj.CoreCompileInputs.cache
+C:\Users\maaa7\OneDrive\Documents\Solution\University System04\University System\obj\Debug\net8.0\University System.sourcelink.json
