@@ -23,7 +23,7 @@ namespace University_System.Models
 
         [ForeignKey("Courses")]
         public int ? courseId { get; set; }//fk
-        public Enrollment enrollment { get; set; } //navigation
+        public Course course { get; set; } //navigation
 
         [Required]
         public DateTime enrollmentDate { get; set; }

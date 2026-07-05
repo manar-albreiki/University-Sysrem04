@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Migrations\\20260705115913_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:University System\\Migrations\\20260705115913_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Migrations\\20260705115550_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:University System\\Migrations\\20260705115550_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|solutionrelative:university system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5902974D-3089-E7AC-AD8D-2AA89A112259}|University System\\University System.csproj|c:\\users\\maaa7\\onedrive\\documents\\solution\\university system04\\university system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,76 +46,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260705115913_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Migrations\\20260705115913_initialCreate.cs",
+              "RelativeDocumentMoniker": "University System\\Migrations\\20260705115913_initialCreate.cs",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Migrations\\20260705115913_initialCreate.cs",
+              "RelativeToolTip": "University System\\Migrations\\20260705115913_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:59:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20260705115550_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Migrations\\20260705115550_initialCreate.cs",
+              "RelativeDocumentMoniker": "University System\\Migrations\\20260705115550_initialCreate.cs",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Migrations\\20260705115550_initialCreate.cs",
+              "RelativeToolTip": "University System\\Migrations\\20260705115550_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:55:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "University System\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\UniversityContext.cs",
+              "RelativeToolTip": "University System\\UniversityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T11:23:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "University System\\Models\\Enrollment.cs",
               "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Enrollment.cs",
               "RelativeToolTip": "University System\\Models\\Enrollment.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T10:24:39.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Course.cs",
               "RelativeDocumentMoniker": "University System\\Models\\Course.cs",
               "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Course.cs",
               "RelativeToolTip": "University System\\Models\\Course.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T10:24:09.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Department.cs",
               "RelativeDocumentMoniker": "University System\\Models\\Department.cs",
               "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Department.cs",
               "RelativeToolTip": "University System\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T10:23:51.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Instructor.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Instructor.cs",
               "RelativeDocumentMoniker": "University System\\Models\\Instructor.cs",
               "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Instructor.cs",
               "RelativeToolTip": "University System\\Models\\Instructor.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T10:23:37.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Student.cs",
               "RelativeDocumentMoniker": "University System\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Models\\Student.cs",
               "RelativeToolTip": "University System\\Models\\Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCYAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T10:23:22.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maaa7\\OneDrive\\Documents\\Solution\\University System04\\University System\\Program.cs",
               "RelativeDocumentMoniker": "University System\\Program.cs",
@@ -111,7 +162,8 @@
               "RelativeToolTip": "University System\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:12:48.021Z"
+              "WhenOpened": "2026-06-30T08:12:48.021Z",
+              "EditorCaption": ""
             }
           ]
         }
